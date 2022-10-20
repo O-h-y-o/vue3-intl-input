@@ -5,6 +5,8 @@ but you can use this
 
 ## [NPM](https://www.npmjs.com/package/vue3-intl-input)
 
+### Install
+
 ```js{1}
 $ npm install vue3-intl-input
 ```
