@@ -9,4 +9,13 @@ but you can use this
 $ npm install vue3-intl-input
 ```
 
+```js
+$ yarn add vue3-intl-input
+```
+
+```js
+$ pnpm install vue3-intl-input
+```
+
+
 ## [DOCS](https://vue3-intl-input-docs.netlify.app)
