@@ -3,7 +3,7 @@
 This npm & docs are under development.
 but you can use this
 
-## [NPM](https://www.npmjs.com/package/vue3-intl-input)
+## [NPM](https://www.npmjs.com/package/vue3-intl-input) | [DOCS](https://vue3-intl-input-docs.netlify.app)
 
 ## Installation
 
@@ -70,4 +70,4 @@ const getCountryInfo = (info: object) => {
 </script>
 ```
 
-## [DOCS](https://vue3-intl-input-docs.netlify.app)
+
