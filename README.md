@@ -59,7 +59,7 @@ app.use(vue3IntlInput).mount('#app');
   />
 </template>
 
-<script>
+<script setup lang="ts">
 const getInputValue = (val: object) => {
   console.log(val);
 };
