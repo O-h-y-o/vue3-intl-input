@@ -38,7 +38,7 @@ const app = createApp(App);
 app.use(vue3IntlInput).mount('#app');
 ```
 
-```ts
+```js
 // Component.vue
 <template>
    <vue3-intl-input
