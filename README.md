@@ -1,7 +1,6 @@
 # vue3-intl-input
 
-This npm & docs are under development.
-but you can use this
+[added] binding mode 3
 
 ## [NPM](https://www.npmjs.com/package/vue3-intl-input) | [DOCS](https://vue3-intl-input-docs.netlify.app)
 
